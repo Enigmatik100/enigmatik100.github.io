@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - enigmatik100
+  
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - alx-higher_level_programming Public
+  - monty
+  - alx-low_level_programming 
